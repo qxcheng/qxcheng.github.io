@@ -74,39 +74,39 @@ Obsidian的编辑器支持markdown语法，常用的markdown语法如下：
 
 ## 3.展开大纲
 
-如图所示依次点击打开大纲模式： ![](https://www.bplan.top/2024-05-07.webp)
+如图所示依次点击打开大纲模式： ![](https://img.bplan.top/2024-05-7.webp)
 
 ## 4.标签模式
 
-在编辑器中输入 #python 会生成一个python标签，可以通过标签视图查看： ![](https://www.bplan.top/2024-05-08.webp)
+在编辑器中输入 #python 会生成一个python标签，可以通过标签视图查看： ![](https://img.bplan.top/2024-05-8.webp)
 
 ## 5.双链模式
 
-通过 \[\[xxx\]\] 语法来链接到xxx文件，可以在右侧查看当前文件的链接和反向链接： ![](https://www.bplan.top/2024-05-09.webp)
+通过 \[\[xxx\]\] 语法来链接到xxx文件，可以在右侧查看当前文件的链接和反向链接： ![](https://img.bplan.top/2024-05-9.webp)
 
 ## 6.关系图谱
 
-查看关系图谱，可以通过滚轮放大缩小： ![](https://www.bplan.top/2024-05-10.webp)
+查看关系图谱，可以通过滚轮放大缩小： ![](https://img.bplan.top/2024-05-10.webp)
 
 ## 7.分屏和导出
 
-Obsidian支持分屏模式和导出PDF功能，具体功能位置如下： ![](https://www.bplan.top/2024-05-11.webp)
+Obsidian支持分屏模式和导出PDF功能，具体功能位置如下： ![](https://img.bplan.top/2024-05-11.webp)
 
 ## 8.图片存储位置配置
 
-复制图片或截图后粘贴，图片将存储到指定的文件夹： ![](https://www.bplan.top/2024-05-06.webp)
+复制图片或截图后粘贴，图片将存储到指定的文件夹： ![](https://img.bplan.top/2024-05-6.webp)
 
 ## 9.远程坚果云同步配置
 
-1.打开坚果云网页版，点击右上角昵称下面的账户信息： ![](https://www.bplan.top/2024-05-01.webp)
+1.打开坚果云网页版，点击右上角昵称下面的账户信息： ![](https://img.bplan.top/2024-05-1.webp)
 
-2.切换到安全选项，点击添加应用，输入任意应用名称后点击生成密码： ![](https://www.bplan.top/2024-05-02.webp)
+2.切换到安全选项，点击添加应用，输入任意应用名称后点击生成密码： ![](https://img.bplan.top/2024-05-2.webp)
 
-3.打开Obsidian的设置--第三方插件，首次使用需要先关闭安全模式，点击浏览搜索 remotely save，并安装和启用： ![](https://www.bplan.top/2024-05-03.webp)
+3.打开Obsidian的设置--第三方插件，首次使用需要先关闭安全模式，点击浏览搜索 remotely save，并安装和启用： ![](https://img.bplan.top/2024-05-3.webp)
 
-4.在 remotely save 插件的配置界面一共配置4个地方，其中服务器地址、用户名、密码分别填入第2步中的服务器地址、账户、密码： ![](https://www.bplan.top/2024-05-04.webp)
+4.在 remotely save 插件的配置界面一共配置4个地方，其中服务器地址、用户名、密码分别填入第2步中的服务器地址、账户、密码： ![](https://img.bplan.top/2024-05-4.webp)
 
-5.点击同步按钮即可进行远程同步（移动端按相同方式配置即可）： ![](https://www.bplan.top/2024-05-05.webp)
+5.点击同步按钮即可进行远程同步（移动端按相同方式配置即可）： ![](https://img.bplan.top/2024-05-5.webp)
 
 ## 10.结语
 

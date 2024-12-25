@@ -176,7 +176,7 @@ ft.app(target=main)
 
 如下是本篇完成后的笔记应用界面：
 
-![](https://www.bplan.top/2024-12-01.webp)
+![](https://img.bplan.top/2024-12-2024-12-06_225048.webp)
 
 ## 5\. 本篇小结
 

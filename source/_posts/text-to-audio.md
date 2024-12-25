@@ -16,7 +16,7 @@ title: 文本转语音不完全指南
 
 这种方式使用最为简单便捷，但存在网站关闭等不稳定情况，下面推荐几个网站。
 
-第一个网站：[https://www.text-to-speech.online/](https://www.text-to-speech.online/)，主界面如下： ![](https://www.bplan.top/2024-06-01.webp)   第二个网站：[http://www.ttsonline.cn/](http://www.ttsonline.cn/)，主界面如下： ![](https://www.bplan.top/2024-06-02.webp)   第三个网站：[https://cloudtts.com/u/index.html](https://cloudtts.com/u/index.html)，主界面如下： ![](https://www.bplan.top/2024-06-03.webp)
+第一个网站：[https://www.text-to-speech.online/](https://www.text-to-speech.online/)，主界面如下： ![](https://img.bplan.top/2024-06-01.webp)   第二个网站：[http://www.ttsonline.cn/](http://www.ttsonline.cn/)，主界面如下： ![](https://img.bplan.top/2024-06-02.webp)   第三个网站：[https://cloudtts.com/u/index.html](https://cloudtts.com/u/index.html)，主界面如下： ![](https://img.bplan.top/2024-06-03.webp)
 
 ## 2.代码调用
 

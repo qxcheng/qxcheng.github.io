@@ -234,4 +234,4 @@ docker-compose up --build -d
 curl 127.0.0.1:5000
 ```
 
-![](https://www.bplan.top/2024-11-20231020105755.webp)
+![](https://img.bplan.top/2024-11-Pasted-image-20231020105755.webp)

@@ -432,7 +432,7 @@ class NoterApp:
 
 如下是本篇完成后的笔记应用界面，初次打开时会加载已经保存的笔记内容：
 
-![](https://www.bplan.top/2024-12-01.webp)
+![](https://img.bplan.top/2024-12-image.webp)
 
 ## 6.本篇小结
 
