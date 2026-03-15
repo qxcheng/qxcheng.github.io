@@ -73,3 +73,8 @@ busuanzi: false
 searchEngine: https://www.google.com/search?q=
 # homeHost：target domain, default current page domain
 homeHost: https://github.com/qxcheng/
+
+style:
+    categories:
+        # support line, list; default list
+        display: lines
