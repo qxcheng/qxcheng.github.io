@@ -37,7 +37,7 @@ links:
 ####### sidebar #####
 sidebar:
     # name for left sidebar post list. true: title name; false: file name
-    usePostTitle: true
+    usePostTitle: false
 
 ####### plug-in #####
 # optional, giscus comment
