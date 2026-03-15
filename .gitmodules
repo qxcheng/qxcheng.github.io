@@ -1,0 +1,3 @@
+[submodule "themes/tree"]
+	path = themes/tree
+	url = https://github.com/wujun234/hexo-theme-tree.git
