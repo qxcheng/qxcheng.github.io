@@ -1,5 +1,5 @@
 ---
-title: 10.使用LangGraph进行长文本摘要总结
+title: langgraph进行长文本摘要总结
 date: 2025-01-21 10:37:16
 tags:
 - 大模型             

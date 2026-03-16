@@ -1,5 +1,5 @@
 ---
-title: 1.langchain的概念和基本使用
+title: langchain的概念和基本使用
 date: 2025-01-09 14:09:29
 tags:
 - 大模型

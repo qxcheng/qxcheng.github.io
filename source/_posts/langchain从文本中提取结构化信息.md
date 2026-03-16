@@ -1,5 +1,5 @@
 ---
-title: 3.使用langchain从文本中提取结构化信息
+title: langchain从文本中提取结构化信息
 date: 2025-01-13 12:46:56
 tags:
 - 大模型             

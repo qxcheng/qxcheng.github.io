@@ -1,5 +1,5 @@
 ---
-title: 2.使用langchain的结构化输出功能实现文本分类
+title: langchain结构化输出功能实现文本分类
 date: 2025-01-09 14:15:19
 tags:
 - 大模型

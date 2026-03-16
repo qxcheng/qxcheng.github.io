@@ -1,5 +1,5 @@
 ---
-title: 9. 使用LangGraph构建基于 SQL 数据的问答系统
+title: langgraph构建基于 SQL 数据的问答系统
 date: 2025-01-21 09:11:41
 tags:
 - 大模型             

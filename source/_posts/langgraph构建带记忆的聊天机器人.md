@@ -1,5 +1,5 @@
 ---
-title: 5.使用langgraph构建带记忆的聊天机器人
+title: langgraph构建带记忆的聊天机器人
 date: 2025-01-15 12:28:55
 tags:
 - 大模型             

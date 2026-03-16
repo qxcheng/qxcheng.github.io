@@ -1,5 +1,5 @@
 ---
-title: 6.langgraph创建agent代理并使用搜索工具
+title: langgraph创建agent代理并使用搜索工具
 date: 2025-01-15 12:30:29
 tags:
 - 大模型             

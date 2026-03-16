@@ -1,5 +1,5 @@
 ---
-title: 4.使用langchain构建简单的RAG系统
+title: langchain构建简单的RAG系统
 date: 2025-01-13 12:50:20
 tags:
 - 大模型

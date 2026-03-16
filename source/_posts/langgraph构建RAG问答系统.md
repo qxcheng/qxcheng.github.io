@@ -1,5 +1,5 @@
 ---
-title: 7.使用langgraph构建RAG问答系统
+title: langgraph构建RAG问答系统
 date: 2025-01-21 09:07:08
 tags:
 - 大模型             
